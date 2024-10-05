@@ -49,7 +49,7 @@ function Feedback() {
             <img
               src="/stamp.png"
               alt="stamp"
-              className="w-[155px] h-[155px] object-contain"
+              className="w-[155px] h-[155px] object-contain animate-[spin_5.5s_linear_infinite]"
             />
           </motion.div>
         </motion.div>
